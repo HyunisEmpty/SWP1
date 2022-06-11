@@ -1,2 +1,1 @@
-20223083  parkhyunbin
-Kookmin Univ. SW
+20223083, parkhyunbin, SoftWare
